@@ -3,5 +3,5 @@
 }
 
 #header{
-    background-image: url(header.jpg) center center / cover no-repeat;
+    background: url(header.jpg) center center / cover no-repeat;
 }
